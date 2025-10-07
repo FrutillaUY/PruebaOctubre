@@ -1,2 +1,0 @@
-# PruebaOctubre
-si papuu
