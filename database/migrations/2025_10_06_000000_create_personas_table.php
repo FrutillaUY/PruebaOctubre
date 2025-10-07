@@ -13,6 +13,7 @@ return new class extends Migration {
             $table->string('apellido');
             $table->string('telefono');
             $table->timestamps();
+            $table->softDeletes();
         });
     }
 
